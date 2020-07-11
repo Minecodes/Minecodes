@@ -1,6 +1,6 @@
 ## Minecodes Official
 
-This is the official Minecodes Website.
+I am a hobby programmer and develop Bukkit Plugins, Python scripts, C# apps and more
 
 ### Contact
 
