@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "please wait, the system is ready in a few seconds"
+apt install git
