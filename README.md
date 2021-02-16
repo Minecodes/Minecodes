@@ -2,6 +2,8 @@
 
 I am a hobby programmer and develop Bukkit Plugins, Python scripts, C# apps and more
 
+[![HackTheBox](http://www.hackthebox.eu/badge/image/492044)](https://www.hackthebox.eu/home/users/profile/492044)
+
 ### Contact
 
 [![Youtube](https://raw.githubusercontent.com/Minecodes/Minecodes/master/img/YoutubeIcon.png)](https://youtube.com/c/Minecodes)
