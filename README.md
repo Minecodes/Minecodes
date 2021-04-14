@@ -4,8 +4,6 @@ I'm Minecodes, a dev and gamer.
 
 I am a hobby programmer and develop Bukkit Plugins, Python scripts, C# apps and more
 
-[![HackTheBox](http://www.hackthebox.eu/badge/image/492044)](https://www.hackthebox.eu/home/users/profile/492044)
-
 ## 🧰Toolbox🧰
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-plain.svg" alt="chrome" width="50" heigth="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" alt="csharp" width="50" heigth="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" width="50" heigth="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain-wordmark.svg" alt="debian" width="50" heigth="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="50" heigth="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="50" heigth="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="50" heigth="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain-wordmark.svg" alt="firefox" width="50" heigth="50"/>
@@ -15,6 +13,7 @@ I am a hobby programmer and develop Bukkit Plugins, Python scripts, C# apps and 
 
 [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minecodes&hide=&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minecodes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![HackTheBox](http://www.hackthebox.eu/badge/image/492044)](https://www.hackthebox.eu/home/users/profile/492044)
 
 ### 📲Social Media
 
