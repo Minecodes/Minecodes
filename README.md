@@ -1,5 +1,9 @@
 ## Hello 😀
 
+<a href="https://app.daily.dev/minecodes"><img src="https://api.daily.dev/devcards/d69f2a430c2a49bfa3a8047e9807d665.png?r=t8n" width="400" alt="Minecodes's Dev Card"/></a>
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minecodes&hide=&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minecodes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 I'm Minecodes, a dev and gamer.
 
 I am a hobby programmer and develop Bukkit Plugins, Python scripts, C# apps and more
@@ -19,8 +23,6 @@ I am a hobby programmer and develop Bukkit Plugins, Python scripts, C# apps and 
 
 # 📈Stats
 
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minecodes&hide=&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minecodes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![HackTheBox](http://www.hackthebox.eu/badge/image/492044)](https://www.hackthebox.eu/home/users/profile/492044)
 
 ### 📲Social Media
