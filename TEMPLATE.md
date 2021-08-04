@@ -51,6 +51,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minecodes&theme=dark" alt="minecodes" /></p>
 
-Last commits/activities:
+### Last commits/activities:
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+
+### ⏳ Last update
+
+<!--TIMESTAMP-->
