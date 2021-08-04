@@ -23,7 +23,7 @@
 
 ### Projects
 
-<!--GITHUB_REPOS:{"rows": 7, "raw": true}-->
+<!--GITHUB_REPOS:{"rows": 7, "raw": false}-->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
