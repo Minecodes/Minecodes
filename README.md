@@ -23,13 +23,15 @@
 
 ### Projects
 
-⭐️ 1 📦 Minecodes/cryptograph
-⭐️ 1 📦 Minecodes/Discord.Webhook
-⭐️ 1 📦 Minecodes/Minecodes
-⭐️ 1 📦 Minecodes/Minecodes.Bot
-⭐️ 1 📦 Minecodes/npm-git-test
-⭐️ 1 📦 Minecodes/Pentest
-⭐️ 1 📦 Minecodes/Privacy
+|*|Stars|Repo|Description|
+|---|---|---|---|
+| 📦 | 1 | [Minecodes/cryptograph](https://github.com/Minecodes/cryptograph) | A library for cryptography |
+| 📦 | 1 | [Minecodes/Discord.Webhook](https://github.com/Minecodes/Discord.Webhook) | A webhook library |
+| 📦 | 1 | [Minecodes/Minecodes](https://github.com/Minecodes/Minecodes) | This is the Website from Minecodes |
+| 📦 | 1 | [Minecodes/Minecodes.Bot](https://github.com/Minecodes/Minecodes.Bot) | This is a discord bot in node.js that can mod, music, fun and more. |
+| 📦 | 1 | [Minecodes/npm-git-test](https://github.com/Minecodes/npm-git-test) | This is a npm i test with github install |
+| 📦 | 1 | [Minecodes/Pentest](https://github.com/Minecodes/Pentest) | Here you can find my learning and my projects for pentesting, but please don't use my stuff here for bad things and only with permission (i used it on my own self hosted server) |
+| 📦 | 1 | [Minecodes/Privacy](https://github.com/Minecodes/Privacy) | Privacy first! Here you can find scripts for privacy and other guys, but i will give them credits and say thank you too! |
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
