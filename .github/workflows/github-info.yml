@@ -4,8 +4,8 @@ name: Github Info
 
 # Controls when the workflow will run
 on:
-  - push
-  - schedule:
+  push
+  schedule:
     # * is a special character in YAML so you have to quote this string
     - cron:  '*/15 * * * *'
 
