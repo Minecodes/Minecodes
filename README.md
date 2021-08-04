@@ -49,8 +49,8 @@
 
 Last commits/activities:
 
+⬆️ Pushed 4 commits to Minecodes/Minecodes
 ⬆️ Pushed 2 commits to Minecodes/Minecodes
 🎉 Merged PR #5 in Minecodes/Minecodes
 💪 Opened PR #5 in Minecodes/Minecodes
-⬆️ Pushed 1 commit to Minecodes/Minecodes
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
