@@ -21,6 +21,13 @@
 
 - ⚡ Fun fact **I am curious and I am 14**
 
+### Projects
+
+⭐️ 1 📦 Minecodes/cryptograph
+⭐️ 1 📦 Minecodes/Discord.Webhook
+⭐️ 1 📦 Minecodes/Minecodes
+⭐️ 1 📦 Minecodes/Minecodes.Bot
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
