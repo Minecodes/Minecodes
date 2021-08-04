@@ -47,3 +47,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minecodes&theme=dark" alt="minecodes" /></p>
 
+Last commits/activities:
+
+⬆️ Pushed 1 commit to Minecodes/Minecodes
+⬆️ Pushed 1 commit to Minecodes/Minecodes
+⬆️ Pushed 1 commit to Minecodes/Minecodes
+⬆️ Pushed 1 commit to Minecodes/Minecodes
+⬆️ Pushed 1 commit to Minecodes/Minecodes
