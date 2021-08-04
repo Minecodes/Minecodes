@@ -17,4 +17,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://dev.to/feed/minecodes, https://feedly.com/i/subscription/feed/http://minecodes.dd-dns.de/rss/"
+                feed_list: "https://dev.to/feed/minecodes, https://minecodes.dd-dns.de/rss/"
