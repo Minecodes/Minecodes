@@ -21,6 +21,10 @@
 
 - ⚡ Fun fact **I am curious and I am 14**
 
+### Projects
+
+<!--GITHUB_REPOS:{"rows": 10, "raw": true}-->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -47,6 +51,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minecodes&theme=dark" alt="minecodes" /></p>
 
-Last commits/activities:
+### Last commits/activities
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
