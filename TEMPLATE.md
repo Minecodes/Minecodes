@@ -21,6 +21,10 @@
 
 - ⚡ Fun fact **I am curious and I am 14**
 
+### Projects
+
+<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
