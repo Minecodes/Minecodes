@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minecodes</h1>
-<h3 align="center">A codery gamer and app tester/app pentester from Germany</h3>
+<h3 align="center">A coder, gamer and app tester/app pentester from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minecodes&label=Profile%20views&color=0e75b6&style=flat" alt="minecodes" /> </p>
 
@@ -27,6 +27,9 @@
 ⭐️ 1 📦 Minecodes/Discord.Webhook
 ⭐️ 1 📦 Minecodes/Minecodes
 ⭐️ 1 📦 Minecodes/Minecodes.Bot
+⭐️ 1 📦 Minecodes/npm-git-test
+⭐️ 1 📦 Minecodes/Pentest
+⭐️ 1 📦 Minecodes/Privacy
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
