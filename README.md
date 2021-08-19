@@ -63,10 +63,10 @@
 
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
-❗️ Opened issue #656 in ryanoasis/nerd-fonts
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
+❗️ Opened issue #656 in ryanoasis/nerd-fonts
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
 
 ### ⏳ Last update
 
-2021-08-19T10:30:15Z
+2021-08-19T10:30:34Z
