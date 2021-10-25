@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Minecodes](https://github.com/Minecodes)
 
-- 💬 Ask me about **react, nextjs, npm, yarn, babel and typescript**
+- 📝 I regularly write articles on [https://minecodes.dd-dns.de](https://minecodes.dd-dns.de)
 
-- 🖥 My website at the moment is [https://old.minecodes.de](old.minecodes.de) (the new one is: [https://minecodes.de](minecodes.de))
+- 💬 Ask me about **react, nextjs, npm, yarn, babel and typescript**
 
 - 📫 How to reach me **minecodes13@gmail.com**
 
@@ -69,4 +69,4 @@
 
 ### ⏳ Last update
 
-2021-10-25T16:50:17Z
+2021-10-25T16:51:17Z
