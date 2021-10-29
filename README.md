@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minecodes</h1>
-<h3 align="center">A coder, gamer and app tester/app pentester from Germany</h3>
+<h3 align="center">A Coder, Gamer And App Tester/App Pentester From Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minecodes&label=Profile%20views&color=0e75b6&style=flat" alt="minecodes" /> </p>
 
