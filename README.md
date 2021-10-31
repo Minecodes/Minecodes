@@ -64,9 +64,9 @@
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
-❗️ Opened issue #107 in hassio-addons/addon-tor
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
+❗️ Opened issue #107 in hassio-addons/addon-tor
 
 ### ⏳ Last update
 
-2021-10-31T19:12:42Z
+2021-10-31T19:13:07Z
