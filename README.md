@@ -64,9 +64,9 @@
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
-❗️ Opened issue #146 in hassio-addons/addon-spotify-connect
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
+❗️ Opened issue #146 in hassio-addons/addon-spotify-connect
 
 ### ⏳ Last update
 
-2021-10-31T21:55:03Z
+2021-10-31T21:55:30Z
