@@ -61,12 +61,12 @@
 
 ### Last commits/activities:
 
+❗️ Closed issue #2747 in open-keychain/open-keychain
+🗣 Commented on #2747 in open-keychain/open-keychain
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
-⬆️ Pushed 1 commit to Minecodes/Minecodes
-❗️ Reopened issue #2747 in open-keychain/open-keychain
 
 ### ⏳ Last update
 
-2021-11-17T20:54:21Z
+2021-11-17T20:54:56Z
