@@ -25,6 +25,10 @@
 
 <!--GITHUB_REPOS:{"rows": 7, "raw": false}-->
 
+### Badgets
+
+<a href="https://app.daily.dev/minecodes"><img src="https://api.daily.dev/devcards/d69f2a430c2a49bfa3a8047e9807d665.png?r=9qa" width="400" alt="Minecodes's Dev Card"/></a>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
