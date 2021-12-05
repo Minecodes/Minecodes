@@ -33,6 +33,10 @@
 | 📦 | 1 | [Minecodes/Pentest](https://github.com/Minecodes/Pentest) | Here you can find my learning and my projects for pentesting, but please don't use my stuff here for bad things and only with permission (i used it on my own self hosted server) |
 | 📦 | 1 | [Minecodes/Privacy](https://github.com/Minecodes/Privacy) | Privacy first! Here you can find scripts for privacy and other guys, but i will give them credits and say thank you too! |
 
+### Badgets
+
+<a href="https://app.daily.dev/minecodes"><img src="https://api.daily.dev/devcards/d69f2a430c2a49bfa3a8047e9807d665.png?r=9qa" width="400" alt="Minecodes's Dev Card"/></a>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -69,4 +73,4 @@
 
 ### ⏳ Last update
 
-2021-12-05T09:50:39Z
+2021-12-05T09:51:12Z
