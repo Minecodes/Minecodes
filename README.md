@@ -66,11 +66,11 @@
 ### Last commits/activities:
 
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
-⬆️ Pushed 1 commit to Minecodes/cdn
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
+⬆️ Pushed 1 commit to Minecodes/cdn
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
 ⬆️ Pushed 1 commit to Minecodes/Minecodes
 
 ### ⏳ Last update
 
-2021-12-12T16:19:50Z
+2021-12-12T16:20:23Z
