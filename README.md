@@ -65,12 +65,12 @@
 
 ### Last commits/activities:
 
-⬆️ Pushed 1 commit to Minecodes/Minecodes
-🗣 Commented on #656 in ryanoasis/nerd-fonts
-⬆️ Pushed 1 commit to Minecodes/Minecodes
-⬆️ Pushed 1 commit to Minecodes/Minecodes
 ⬆️ Pushed 2 commits to Minecodes/foxes
+🎉 Merged PR #102 in Minecodes/foxes
+⬆️ Pushed 2 commits to Minecodes/foxes
+🎉 Merged PR #57 in Minecodes/foxes
+⬆️ Pushed 1 commit to Minecodes/Minecodes
 
 ### ⏳ Last update
 
-2021-12-16T05:06:17Z
+2021-12-16T05:06:49Z
