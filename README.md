@@ -26,12 +26,12 @@
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 3 | [Minecodes/Minecodes](https://github.com/Minecodes/Minecodes) | This is the Website from Minecodes |
+| 📦 | 2 | [Minecodes/Vortex-Editor](https://github.com/Minecodes/Vortex-Editor) | This is a simple text editor, programmed in C#/CSharp. |
 | 📦 | 1 | [Minecodes/cryptograph](https://github.com/Minecodes/cryptograph) | A library for cryptography |
 | 📦 | 1 | [Minecodes/Discord.Webhook](https://github.com/Minecodes/Discord.Webhook) | A webhook library |
+| 📦 | 1 | [Minecodes/foxes](https://github.com/Minecodes/foxes) | This is randomfox as an cli app for Windows, MacOS(not for ARM) and Linux. |
 | 📦 | 1 | [Minecodes/Minecodes.Bot](https://github.com/Minecodes/Minecodes.Bot) | This is a discord bot in node.js that can mod, music, fun and more. |
 | 📦 | 1 | [Minecodes/npm-git-test](https://github.com/Minecodes/npm-git-test) | This is a npm i test with github install |
-| 📦 | 1 | [Minecodes/Pentest](https://github.com/Minecodes/Pentest) | Here you can find my learning and my projects for pentesting, but please don't use my stuff here for bad things and only with permission (i used it on my own self hosted server) |
-| 📦 | 1 | [Minecodes/Privacy](https://github.com/Minecodes/Privacy) | Privacy first! Here you can find scripts for privacy and other guys, but i will give them credits and say thank you too! |
 
 ### Badgets
 
@@ -73,4 +73,4 @@
 
 ### ⏳ Last update
 
-2022-01-23T23:17:34Z
+2022-01-23T23:18:09Z
