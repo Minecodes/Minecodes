@@ -25,7 +25,7 @@
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 2 | [Minecodes/Minecodes](https://github.com/Minecodes/Minecodes) | This is the Website from Minecodes |
+| 📦 | 3 | [Minecodes/Minecodes](https://github.com/Minecodes/Minecodes) | This is the Website from Minecodes |
 | 📦 | 1 | [Minecodes/cryptograph](https://github.com/Minecodes/cryptograph) | A library for cryptography |
 | 📦 | 1 | [Minecodes/Discord.Webhook](https://github.com/Minecodes/Discord.Webhook) | A webhook library |
 | 📦 | 1 | [Minecodes/Minecodes.Bot](https://github.com/Minecodes/Minecodes.Bot) | This is a discord bot in node.js that can mod, music, fun and more. |
@@ -73,4 +73,4 @@
 
 ### ⏳ Last update
 
-2022-01-23T23:14:21Z
+2022-01-23T23:14:59Z
